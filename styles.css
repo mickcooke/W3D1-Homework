@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color:black;
+}
+
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 10px;
+    background-color: #5385e0;
+    color: white;
+}
+
+nav ul{
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+    color:blue
+}
+
+nav ul li{
+    color: blue;
+    text-decoration: none;
+}
+
+.article-image{
+    width:250px;
+    height:150px;
+    object-fit:cover;
+}
+
+.empty-user{
+    width:100px;
+    height:100px;
+    object-fit:cover;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 10px;
+    background-color: #5385e0;
+    color: white;
+}
